@@ -15,3 +15,8 @@ run another urgent task
 
 git stash
 
+
+
+
+
+we just ssh
